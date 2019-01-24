@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AidlPractice_meet_13</string>
+    <string name="startService">Сервис подключён</string>
+
+</resources>
